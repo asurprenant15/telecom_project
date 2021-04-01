@@ -1,0 +1,14 @@
+"No": 0
+"No phone service": 0
+"no internet service": 0
+"Credit card (automatic)": 0 (for payment method)
+"Male": 0 (for gender)
+"Yes": 1 
+"One Year": 1 (for contract)
+"Fiber optic": 1 (for internet service)
+"Bank transfer (automatic): 1 (for payment method)
+"female": 1 (for gender)
+"DSL": 2 (for internet service)
+"Electronic check": 2 (for payment method)
+"Two year": 2 (for contract)
+"mailed check": 3 (for payment method)
