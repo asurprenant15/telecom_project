@@ -1,4 +1,4 @@
-# Prediction Churn from telecom data
+# Predicting Churn from telecom data
 
 For this project I'm going to suggest a model to predict customer Churn for telecom companies. The data I used is available on [Kaggle!](https://www.kaggle.com/radmirzosimov/telecom-users-dataset)
 
